@@ -31,8 +31,7 @@ Input: 4
 Output: 3
 
 Explanation: F(4) = F(3) + F(2) = 2 + 1 = 3.
- 
 
-Note:
+# Note:
 
 0 ≤ N ≤ 30.
